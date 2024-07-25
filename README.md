@@ -87,3 +87,14 @@ To address all issues, run:
 
 Run `npm audit` for details.
 
+labuser@ubuntu2204:~/Desktop/lmsstack$ sudo npm install -g @clerk/nextjs
+
+added 44 packages in 25s
+
+5 packages are looking for funding
+  run `npm fund` for details
+npm notice 
+npm notice New minor version of npm available! 10.2.3 -> 10.8.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.8.2
+npm notice Run npm install -g npm@10.8.2 to update!
+npm notice
