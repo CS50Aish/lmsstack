@@ -2,7 +2,7 @@
 
 export const SidebarRoutes = () => {
     return (
-        <div>
+        <div className="flex flex-col">
             Routes!
         </div>
     )
