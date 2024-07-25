@@ -98,3 +98,30 @@ npm notice New minor version of npm available! 10.2.3 -> 10.8.2
 npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.8.2
 npm notice Run npm install -g npm@10.8.2 to update!
 npm notice
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npm install next@^13.4.12
+
+removed 1 package, changed 6 packages, and audited 377 packages in 11s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ sudo npm install @clerk/nextjs
+
+added 24 packages, and audited 401 packages in 7s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
