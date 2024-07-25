@@ -57,3 +57,32 @@ npm notice New minor version of npm available! 10.2.4 -> 10.8.2
 npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.8.2
 npm notice Run npm install -g npm@10.8.2 to update!
 npm notice 
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npx shadcn-ui@latest init
+Need to install the following packages:
+shadcn-ui@0.8.0
+Ok to proceed? (y) y
+✔ Which style would you like to use? › Default
+✔ Which color would you like to use as base color? › Slate
+✔ Would you like to use CSS variables for colors? … no / yes
+
+✔ Writing components.json...
+✔ Initializing project...
+✔ Installing dependencies...
+
+Success! Project initialization completed. You may now add components.
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npm i
+npm WARN deprecated glob@7.1.7: Glob versions prior to v9 are no longer supported
+
+added 6 packages, removed 4 packages, changed 14 packages, and audited 378 packages in 14s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+3 vulnerabilities (1 low, 1 moderate, 1 high)
+
+To address all issues, run:
+  npm audit fix --force
+
+Run `npm audit` for details.
