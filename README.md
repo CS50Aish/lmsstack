@@ -125,3 +125,9 @@ To address all issues (including breaking changes), run:
   npm audit fix --force
 
 Run `npm audit` for details.
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npx shadcn-ui@latest add sheet
+Need to install the following packages:
+shadcn-ui@0.8.0
+Ok to proceed? (y) y
+✔ Done.

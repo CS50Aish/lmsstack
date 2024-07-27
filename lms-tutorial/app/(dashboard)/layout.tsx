@@ -1,4 +1,4 @@
-import { Navbar } from "./_components/navnar";
+import { Navbar } from "./_components/navbar";
 import { Sidebar } from "./_components/sidebar";
 
 const DashboardLayout = ({
