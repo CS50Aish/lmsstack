@@ -132,3 +132,13 @@ shadcn-ui@0.8.0
 Ok to proceed? (y) y
 ✔ Done.
 
+labuser@ubuntu2204:~/Desktop/lmsstack$ cd lms-tutorial/
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npx shadcn-ui@latest add form
+Need to install the following packages:
+shadcn-ui@0.8.0
+Ok to proceed? (y) y
+✔ Done.
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npx shadcn-ui@latest add input
+✔ Done.
+
