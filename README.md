@@ -142,3 +142,17 @@ Ok to proceed? (y) y
 labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npx shadcn-ui@latest add input
 ✔ Done.
 
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npm i axios
+
+added 9 packages, and audited 435 packages in 4s
+
+146 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
