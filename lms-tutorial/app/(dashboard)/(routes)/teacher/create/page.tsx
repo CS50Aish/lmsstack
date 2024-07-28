@@ -18,6 +18,7 @@ import {
     FormMessage,
     FormDescription,
 } from "@/components/ui/form";
+import toast from "react-hot-toast";
 
 const formSchema = z.object({
     title: z.string().min(1, {
@@ -44,7 +45,7 @@ const CreatePage = () => {
             router.push(`/teacher/courses/${response.data.id}`);
         }
         catch {
-            console.log("Something went wrong");
+            toast.error("Something went wrong");
         }
     }
 

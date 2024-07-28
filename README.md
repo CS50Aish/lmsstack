@@ -169,3 +169,17 @@ To address all issues (including breaking changes), run:
   npm audit fix --force
 
 Run `npm audit` for details.
+
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npm i -D prisma
+
+added 6 packages, and audited 443 packages in 11s
+
+146 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
