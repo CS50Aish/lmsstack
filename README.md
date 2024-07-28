@@ -156,3 +156,16 @@ To address all issues (including breaking changes), run:
 
 Run `npm audit` for details.
 
+labuser@ubuntu2204:~/Desktop/lmsstack/lms-tutorial$ npm i react-hot-toast
+
+added 2 packages, and audited 437 packages in 6s
+
+146 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
